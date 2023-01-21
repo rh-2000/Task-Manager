@@ -1,0 +1,23 @@
+Total users registered: 3
+Total tasks generated: 4                
+For user admin:
+                Total tasks assigned: 2
+                Percentage of all tasks assigned: %0.5
+                Percentage of complete tasks: %0.5
+                Percentage of incomplete tasks: %0.5
+                Percentage of incomplete & overdue tasks: %1.0
+                                
+For user abbi:
+                Total tasks assigned: 1
+                Percentage of all tasks assigned: %0.25
+                Percentage of complete tasks: %0.5
+                Percentage of incomplete tasks: %0.0
+                Percentage of incomplete & overdue tasks: %0.5
+                                
+For user bob:
+                Total tasks assigned: 1
+                Percentage of all tasks assigned: %0.25
+                Percentage of complete tasks: %0.0
+                Percentage of incomplete tasks: %0.5
+                Percentage of incomplete & overdue tasks: %0.5
+                

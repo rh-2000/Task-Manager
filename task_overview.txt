@@ -1,0 +1,6 @@
+Total tasks generated: 4
+Total no. tasks completed: 2
+Total no. tasks uncompleted: 2
+Total no. tasks uncompleted & overdue: 2
+Perecntage of incomplete tasks: %0.5
+Percentage of overdue tasks: %0.5
