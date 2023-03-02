@@ -1,13 +1,3 @@
-'''
-NOTES:
-
-This is a copied version of the task_manager.py file made for TASK 2 of T21.
-It contains the modified admin options and permissions
-It wasn't specified which file to copy from T21 but i assumed it would be the file with admin modifications
-
-
-'''
-
 #===== importing libraries ===========
 # importing both date and datetime from the datetime module
 # because i will use date to extract the current date
